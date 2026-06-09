@@ -379,10 +379,13 @@ pytest --cov=backend --cov-report=html tests/
 
 ## 👥 Contributors
 
-| Name | GitHub |
-|------|--------|
-| **Tracer7R4C3R** | [@Tracer7R4C3R](https://github.com/Tracer7R4C3R) |
-| **Prajwal-031** | [@Prajwal-031](https://github.com/Prajwal-031) |
+### Core Team
+
+| Name | Contributions | GitHub |
+|------|------|--------|
+| **Prajwal-031** | Project Architecture, Backend Development, Data Processing, ML Models | [@Prajwal-031](https://github.com/Prajwal-031) |
+| **NaveenGadugina** | API Development, Database Design | [@NaveenGadugina](https://github.com/NaveenGadugina) |
+| **Tracer7R4C3R** | UI/UX, Web Interface, Dashboard | [@Tracer7R4C3R](https://github.com/Tracer7R4C3R) |
 
 ### How to Add Yourself
 
