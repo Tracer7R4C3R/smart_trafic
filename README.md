@@ -387,37 +387,6 @@ pytest --cov=backend --cov-report=html tests/
 | **NaveenGadugina** | API Development, Database Design | [@NaveenGadugina](https://github.com/NaveenGadugina) |
 | **Tracer7R4C3R** | UI/UX, Web Interface, Dashboard | [@Tracer7R4C3R](https://github.com/Tracer7R4C3R) |
 
-### How to Add Yourself
-
-If you've contributed to this project, please add yourself to the contributors list:
-
-1. Fork the repository
-2. Edit the table above with your information
-3. Submit a pull request with a clear description
-
-### Contribution Areas
-
-We're actively looking for contributors in these areas:
-
-- 🐍 **Python Backend:** Data processing, API development, optimization algorithms
-- 🎨 **Frontend:** UI/UX design, interactive visualizations, responsiveness
-- 🤖 **Machine Learning:** Model improvements, feature engineering, prediction accuracy
-- 📊 **Data Engineering:** ETL pipelines, database optimization, data quality
-- 🐳 **DevOps:** Docker, Kubernetes, CI/CD, monitoring
-- 📚 **Documentation:** User guides, API docs, tutorials
-- 🧪 **Testing:** Unit tests, integration tests, QA
-- 📱 **Mobile:** React Native or Flutter mobile application
-
----
-
-## 🙏 Acknowledgments
-
-- **Buildathon Organizers:** For the opportunity and platform
-- **Team Members:** For collaborative development and testing
-- **Open Source Community:** For libraries and frameworks used
-- **Traffic Data Providers:** For data and domain expertise
-- **Contributors:** All individuals who contributed to this project
-
 ---
 
 ## 📞 Contact & Social
