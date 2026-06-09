@@ -336,27 +336,6 @@ pytest --cov=backend --cov-report=html tests/
 4. **Environmental Monitoring:** Emission tracking and reduction
 5. **Demand Prediction:** Anticipate traffic before it happens
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork the Repository**
-   ```bash
-   git clone https://github.com/Tracer7R4C3R/smart_trafic.git
-   git checkout -b feature/your-feature-name
-   ```
-
-2. **Make Changes**
-   - Follow PEP 8 style guidelines
-   - Add unit tests for new features
-   - Update documentation
-
-3. **Submit Pull Request**
-   - Clear description of changes
-   - Link to related issues
-   - Ensure tests pass
 
 ---
 
@@ -389,8 +368,6 @@ We welcome contributions! Please follow these guidelines:
 
 ---
 
-## 📞 Support & Contact
-
 ### Getting Help
 - **Documentation:** See `/docs` directory
 - **FAQ:** Check `docs/faq.md` for common questions
@@ -400,58 +377,16 @@ We welcome contributions! Please follow these guidelines:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
-
-## ⚖️ Legal Notice
-
-This project is for educational and research purposes. Deployment in production environments for traffic management should comply with local regulations and obtain necessary permissions from traffic authorities.
-
----
-
 ## 👥 Contributors
 
 ### Core Team
 
-| Name | Role | Contributions | GitHub |
+| Name | Contributions | GitHub |
 |------|------|---------------|--------|
-| **Tracer7R4C3R** | Lead Developer & Project Owner | Project Architecture, Backend Development, Data Processing, ML Models | [@Tracer7R4C3R](https://github.com/Tracer7R4C3R) |
-| **[Contributor Name]** | Backend Engineer | API Development, Database Design | [@contributor-github](https://github.com/contributor-github) |
-| **[Contributor Name]** | Frontend Developer | UI/UX, Web Interface, Dashboard | [@contributor-github](https://github.com/contributor-github) |
-| **[Contributor Name]** | Data Scientist | ML Models, Prediction Algorithms, Analytics | [@contributor-github](https://github.com/contributor-github) |
-| **[Contributor Name]** | DevOps Engineer | Docker Setup, Deployment, CI/CD | [@contributor-github](https://github.com/contributor-github) |
+| **Prajwal-031**  | Project Architecture, Backend Development, Data Processing, ML Models | [@Prajwal-031](https://github.com/Prajwal-031) |
+| **NaveenGadugina** |  API Development, Database Design | [@NaveenGadugina](https://github.com/NaveenGadugina) |
+| **Tracer7R4C3R** | UI/UX, Web Interface, Dashboard | [@Tracer7R4C3R](https://github.com/Tracer7R4C3R) |
 
-### How to Add Yourself
-
-If you've contributed to this project, please add yourself to the contributors list:
-
-1. Fork the repository
-2. Edit the table above with your information
-3. Submit a pull request with a clear description
-
-### Contribution Areas
-
-We're actively looking for contributors in these areas:
-
-- 🐍 **Python Backend:** Data processing, API development, optimization algorithms
-- 🎨 **Frontend:** UI/UX design, interactive visualizations, responsiveness
-- 🤖 **Machine Learning:** Model improvements, feature engineering, prediction accuracy
-- 📊 **Data Engineering:** ETL pipelines, database optimization, data quality
-- 🐳 **DevOps:** Docker, Kubernetes, CI/CD, monitoring
-- 📚 **Documentation:** User guides, API docs, tutorials
-- 🧪 **Testing:** Unit tests, integration tests, QA
-- 📱 **Mobile:** React Native or Flutter mobile application
-
----
-
-## 🙏 Acknowledgments
-
-- **Buildathon Organizers:** For the opportunity and platform
-- **Team Members:** For collaborative development and testing
-- **Open Source Community:** For libraries and frameworks used
-- **Traffic Data Providers:** For data and domain expertise
-- **Contributors:** All individuals who contributed to this project
 
 ---
 
