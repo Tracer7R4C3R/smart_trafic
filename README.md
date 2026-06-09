@@ -410,12 +410,48 @@ This project is for educational and research purposes. Deployment in production 
 
 ---
 
+## 👥 Contributors
+
+### Core Team
+
+| Name | Role | Contributions | GitHub |
+|------|------|---------------|--------|
+| **Tracer7R4C3R** | Lead Developer & Project Owner | Project Architecture, Backend Development, Data Processing, ML Models | [@Tracer7R4C3R](https://github.com/Tracer7R4C3R) |
+| **[Contributor Name]** | Backend Engineer | API Development, Database Design | [@contributor-github](https://github.com/contributor-github) |
+| **[Contributor Name]** | Frontend Developer | UI/UX, Web Interface, Dashboard | [@contributor-github](https://github.com/contributor-github) |
+| **[Contributor Name]** | Data Scientist | ML Models, Prediction Algorithms, Analytics | [@contributor-github](https://github.com/contributor-github) |
+| **[Contributor Name]** | DevOps Engineer | Docker Setup, Deployment, CI/CD | [@contributor-github](https://github.com/contributor-github) |
+
+### How to Add Yourself
+
+If you've contributed to this project, please add yourself to the contributors list:
+
+1. Fork the repository
+2. Edit the table above with your information
+3. Submit a pull request with a clear description
+
+### Contribution Areas
+
+We're actively looking for contributors in these areas:
+
+- 🐍 **Python Backend:** Data processing, API development, optimization algorithms
+- 🎨 **Frontend:** UI/UX design, interactive visualizations, responsiveness
+- 🤖 **Machine Learning:** Model improvements, feature engineering, prediction accuracy
+- 📊 **Data Engineering:** ETL pipelines, database optimization, data quality
+- 🐳 **DevOps:** Docker, Kubernetes, CI/CD, monitoring
+- 📚 **Documentation:** User guides, API docs, tutorials
+- 🧪 **Testing:** Unit tests, integration tests, QA
+- 📱 **Mobile:** React Native or Flutter mobile application
+
+---
+
 ## 🙏 Acknowledgments
 
 - **Buildathon Organizers:** For the opportunity and platform
 - **Team Members:** For collaborative development and testing
 - **Open Source Community:** For libraries and frameworks used
 - **Traffic Data Providers:** For data and domain expertise
+- **Contributors:** All individuals who contributed to this project
 
 ---
 
